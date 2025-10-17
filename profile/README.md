@@ -1,9 +1,6 @@
 <div align="center">
 
-<img style="width: 50%;" src="../cauis.png" />
-
-# CAUIS 开源社区
+<img style="width: 60%;" src="../cauis_banner.png" />
 
 </div>
 
-非常的好。
